@@ -52,6 +52,7 @@ def initCatalog():
 
 
 def loadData(catalog):
+    
     """
     Carga los libros en la estructura de datos
     """
